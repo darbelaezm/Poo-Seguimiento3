@@ -704,6 +704,7 @@ public class Formulario extends javax.swing.JFrame {
 ```java
 ```
 ## Diagrama UML
+![image](https://github.com/darbelaezm/Poo-Seguimiento3/assets/143208551/34321d92-9d36-45ce-9e32-9c896d7cba3a)
 
 ## Ejercicio Propuesto 22
 ```java
